@@ -9,9 +9,8 @@
  <!--te-->
 
 
- ## TBS
- O operador "spread" do JavaScript ( ...) expande um iterável (como uma matriz) em mais elementos.<br>
- Isso nos permite copiar rapidamente todas as partes de um array existente para outro array:
+ ## TBD
+TBD:
  ~~~javascript
  TBD;
  ~~~~
