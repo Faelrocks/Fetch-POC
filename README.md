@@ -37,7 +37,7 @@ async function loadPikachu(){
 ...
 }
 ```
-Este prefixo tem por objetivo determinar que a função ira trabalahr de forma assicnrona com o andamento do código.
+Este prefixo tem por objetivo determinar que a função ira trabalhar de forma assicnrona com o andamento do código.
 
 Proximo passo vamos utilizar o metodo fetch() que ter o objetivo de iniciar o processo de buscar um recurso por meio de uma URL, este metodo retorna um arquivo JSON que pode ser interptetado pelo metodo json():
 
